@@ -1,7 +1,8 @@
 # CAUGHT STEALING
 **Authors:** Juan David Bernal, Rui Yu Lei Wu   
 **Trailer:** https://youtu.be/6mIvD-GN-p4?si=bI9Rfl5-656-alp5
-[Project 1: Final version](https://youtu.be/rB6CcYWYT3c)
+---
+Project 1: Final version - [Click Here](https://youtu.be/rB6CcYWYT3c)
 ---
 
 ## Introduction
