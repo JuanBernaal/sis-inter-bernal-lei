@@ -36,3 +36,4 @@ Removed the original percussion as it disrupted the flow. Added a new track "Rat
 - **Edited Video:** The final trailer with new narco audio.
 - **Audacity Project File (.AUP3):** Contains all edits.  
 - **README.md:** Documentation of the process.
+- **Advancement:** Contain the first version in mp3 format.
