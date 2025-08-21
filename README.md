@@ -2,7 +2,7 @@
 **Authors:** Juan David Bernal, Rui Yu Lei Wu   
 **Trailer:** https://youtu.be/6mIvD-GN-p4?si=bI9Rfl5-656-alp5
 ---
-Project 1: Final version - [Click Here](https://youtu.be/rB6CcYWYT3c)
+Project 1: Final version (MP4) - [Click Here](https://youtu.be/rB6CcYWYT3c)
 ---
 Audacity Project - [Click Here](https://drive.google.com/file/d/1VPQxjPktR6g681vILN_lY15Fjla5_an_/view?usp=drive_link)
 ---
