@@ -4,6 +4,8 @@
 ---
 Project 1: Final version - [Click Here](https://youtu.be/rB6CcYWYT3c)
 ---
+Audacity Project - [Click Here](https://drive.google.com/file/d/1VPQxjPktR6g681vILN_lY15Fjla5_an_/view?usp=drive_link)
+---
 
 ## Introduction
 This project involves transforming the Caught Stealing trailer from a Thriller and Crime to a narco film genre. The edits were done using Audacity and DaVinci Resolve following the Interaction Systems course guidelines.
